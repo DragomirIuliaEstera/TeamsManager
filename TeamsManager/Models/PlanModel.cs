@@ -4,7 +4,7 @@ using System.Linq;
 using System.Web;
 using System.ComponentModel.DataAnnotations;
 using System.Data.Entity;
-
+using Languages;
 namespace TeamsManager.Models
 {
     public class PlanModel
@@ -16,9 +16,13 @@ namespace TeamsManager.Models
         [Required]
         public string UserName { get; set; }
         [Required]
+        [Display(Name = "Plan", ResourceType = typeof(Resource))]
         public string PlanName { get; set; }
+        [Display(Name = "Description", ResourceType = typeof(Resource))]
         public string Description { get; set; }
+        [Display(Name = "Deadline", ResourceType = typeof(Resource))]
         public DateTime Deadline { get; set; }
+        [Display(Name = "Status", ResourceType = typeof(Resource))]
         public string Status { get; set; }// to do/ pending/ blocked/ done
     }
 

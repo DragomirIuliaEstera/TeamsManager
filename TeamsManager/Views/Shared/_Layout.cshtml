@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
     <meta charset="utf-8" />
@@ -8,6 +8,15 @@
     @Scripts.Render("~/bundles/modernizr")
 </head>
 <body>
+    <div>
+        @{
+            foreach (var i in Languages.LanguageManager.AvailableLanguages)
+            {
+                @Html.ActionLink(i.LanguageName, "ChangeLanguage",
+                        "Home", new { lang = i.LanguageCultureName }, null)<text> </text>
+                    }
+        }
+    </div>
     <div>
         @RenderBody()
     </div>

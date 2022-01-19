@@ -1,0 +1,11 @@
+C:\Users\Alex\OneDrive\Desktop\A_laptop_hp\medii_si_instr_programare\a_p_final\TeamsManager\Languages\bin\Debug\Languages.dll
+C:\Users\Alex\OneDrive\Desktop\A_laptop_hp\medii_si_instr_programare\a_p_final\TeamsManager\Languages\bin\Debug\Languages.pdb
+C:\Users\Alex\OneDrive\Desktop\A_laptop_hp\medii_si_instr_programare\a_p_final\TeamsManager\Languages\bin\Debug\ro\Languages.resources.dll
+C:\Users\Alex\OneDrive\Desktop\A_laptop_hp\medii_si_instr_programare\a_p_final\TeamsManager\Languages\obj\Debug\Languages.csproj.AssemblyReference.cache
+C:\Users\Alex\OneDrive\Desktop\A_laptop_hp\medii_si_instr_programare\a_p_final\TeamsManager\Languages\obj\Debug\Languages.Resources.Resource.resources
+C:\Users\Alex\OneDrive\Desktop\A_laptop_hp\medii_si_instr_programare\a_p_final\TeamsManager\Languages\obj\Debug\Languages.Resources.Resource.ro.resources
+C:\Users\Alex\OneDrive\Desktop\A_laptop_hp\medii_si_instr_programare\a_p_final\TeamsManager\Languages\obj\Debug\Languages.csproj.GenerateResource.cache
+C:\Users\Alex\OneDrive\Desktop\A_laptop_hp\medii_si_instr_programare\a_p_final\TeamsManager\Languages\obj\Debug\Languages.csproj.CoreCompileInputs.cache
+C:\Users\Alex\OneDrive\Desktop\A_laptop_hp\medii_si_instr_programare\a_p_final\TeamsManager\Languages\obj\Debug\ro\Languages.resources.dll
+C:\Users\Alex\OneDrive\Desktop\A_laptop_hp\medii_si_instr_programare\a_p_final\TeamsManager\Languages\obj\Debug\Languages.dll
+C:\Users\Alex\OneDrive\Desktop\A_laptop_hp\medii_si_instr_programare\a_p_final\TeamsManager\Languages\obj\Debug\Languages.pdb
