@@ -1,5 +1,7 @@
 @{ ViewBag.Title = "Profile"; }
 
+@* Pagina Profile pentru utilizator *@
+
 <div class="navbar navbar-inverse navbar-fixed-top">
     <div class="container">
         <div class="navbar-header">
@@ -24,6 +26,7 @@
 
 <fieldset>
     <legend>User DashBoard</legend>
+    @* Verificam daca suntem logati si  afisam detaliile utlizatorului *@
     @if (Session["UserName"] != null && Session["UserID"] != null)
     {
         <text>
@@ -34,4 +37,5 @@
 
 <hr />
 
+@* Oferim utilizatorului posibiliatea de a isi sterge contul *@
 <div class="item bottom" onclick="location.href='@Url.Action("Delete", "User")'">Delete</div>

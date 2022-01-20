@@ -504,3 +504,13 @@
     [Extent1].[Status] AS [Status]
     FROM [dbo].[PlanModels] AS [Extent1]
     WHERE [Extent1].[IdUser] = @p__linq__0
+01/20/2022 8:55:10 AM ui20: 0 res: SELECT 
+    [Extent1].[Id] AS [Id], 
+    [Extent1].[IdUser] AS [IdUser], 
+    [Extent1].[UserName] AS [UserName], 
+    [Extent1].[PlanName] AS [PlanName], 
+    [Extent1].[Description] AS [Description], 
+    [Extent1].[Deadline] AS [Deadline], 
+    [Extent1].[Status] AS [Status]
+    FROM [dbo].[PlanModels] AS [Extent1]
+    WHERE [Extent1].[IdUser] = @p__linq__0
