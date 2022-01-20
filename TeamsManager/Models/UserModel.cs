@@ -5,6 +5,7 @@ using System.Web;
 using System.ComponentModel.DataAnnotations;
 using System.Data.Entity;
 
+// Modelul entity pentru utilizator
 namespace TeamsManager.Models
 {
     public class UserModel

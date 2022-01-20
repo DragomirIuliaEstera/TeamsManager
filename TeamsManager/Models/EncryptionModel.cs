@@ -5,6 +5,7 @@ using System.Web;
 using System.ComponentModel.DataAnnotations;
 using System.Data.Entity;
 
+// Mdelul entity pentru encription
 namespace TeamsManager.Models
 {
     public class EncryptionModel
